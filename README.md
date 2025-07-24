@@ -1,4 +1,4 @@
-# 📊 Data Profession Survey Analysis
+# 📊 Data Professional Survey Breakdown
 
 This project provides an interactive and visual breakdown of survey results from **630** individuals working or aspiring to work in various data-related professions. Using **Power BI**, the analysis offers insights into salaries, job roles, preferred programming languages, work-life balance, and career challenges in the data domain.
 
