@@ -37,8 +37,12 @@ This project provides an interactive and visual breakdown of survey results from
 
 To explore or extend the project:
 
-1. Download the `data_profession.xlsx` file.
+1. Download the `data_profession.xlsx` file  
+   **OR**  
+   You can use the original dataset from Kaggle using the link provided above.
+
 2. Open Power BI Desktop and import the dataset.
+
 3. Rebuild or modify visualizations using Power BI tools.
 
 ##  Contribution
@@ -51,5 +55,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> **Note:** This project is intended for educational and analytical purposes only. All data is anonymized and used responsibly.
+> **Note:** This project is for **educational and practice purposes only**. All data is anonymized and used responsibly.
 
